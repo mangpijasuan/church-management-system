@@ -1,0 +1,15 @@
+# Excel / Office temp & lock files
+~$*
+*.tmp
+
+# Real member data - keep it OUT of GitHub
+data/
+*_REAL.xlsx
+*_backup*.xlsx
+
+# clasp credentials (never commit)
+.clasprc.json
+
+# OS junk
+.DS_Store
+Thumbs.db

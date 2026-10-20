@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or share this template, please credit it as below."
+title: "Church Member Management (Excel & Google Sheets)"
+type: software
+authors:
+  - given-names: Mangpi
+    family-names: Jasuan
+repository-code: "https://github.com/mangpijasuan/church-member-management"
+license: MIT
+version: 1.0.0
+date-released: 2026-10-06
+keywords: [church, membership, excel, google-sheets, apps-script, vba, nonprofit]
